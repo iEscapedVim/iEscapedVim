@@ -10,8 +10,8 @@ Outside of work, I enjoy cooking/exploring new recipes, some photography, watchi
 
 <ul>
      <li>🌍  I'm based in Pakistan.</li>
-     <li>🖥️  See my portfolio at [MyPortfolio](http://iescapedvim.com).</li>
-     <li>✉️  You can contact me at [info@iescapedvim.com](mailto:info@iescapedvim.com).</li>
+     <li>🖥️  See <a href="http://iescapedvim.com">MyPortfolio</a>.</li>
+     <li>✉️  You can contact me at my <a href="mailto:info@iescapedvim.com">Business Mail</a>.</li>
      <li>🧠  I'm learning PHP, Proficient in HTML5, CSS3, Bootstrap, JavaScript, TailwindCSS, and CMS platforms.</li>
      <li>🤝  I'm open to collaborating on front-end projects, crafting visually stunning, responsive, and user-friendly websites are my thing.</li>
      <li>⚡  I managed to escaped vim hence the username iEscapedVim.</li>
