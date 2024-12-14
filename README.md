@@ -73,14 +73,13 @@ Outside of work, I enjoy cooking/exploring new recipes, some photography, watchi
 <a href="https://www.x.com/iEscapedVim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture>
 </a></p>
 
-## 🔥 Streak
+## 🔥 Streak & Stats
 
-<picture>
-    <img src="https://streak-stats.demolab.com?user=iEscapedVim&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</picture>
-<picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEscapedVim&layout=compact&show_icons=true&theme=catppuccin_mocha" />
-</picture>
+<div>
+     <img src="https://streak-stats.demolab.com?user=iEscapedVim&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEscapedVim&layout=compact&show_icons=true&theme=catppuccin_mocha" />
+</div>
+
 <br />
 
 ## My Git Pet
