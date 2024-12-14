@@ -8,14 +8,14 @@ I'm a seasoned web developer and technical project lead with over 8 years of exp
 Outside of work, I enjoy cooking/exploring new recipes, some photography, watching anime/discovering new series, and spending time with my feline friends. 😺
 <br /><br />
 
-<ul>
-     <li>🌍  I'm based in Pakistan.</li>
-     <li>🖥️  See <a href="http://iescapedvim.com">MyPortfolio</a>.</li>
-     <li>✉️  You can contact me at my <a href="mailto:info@iescapedvim.com">Business Mail</a>.</li>
-     <li>🧠  I'm learning PHP, Proficient in HTML5, CSS3, Bootstrap, JavaScript, TailwindCSS, and CMS platforms.</li>
-     <li>🤝  I'm open to collaborating on front-end projects, crafting visually stunning, responsive, and user-friendly websites are my thing.</li>
-     <li>⚡  I managed to escaped vim hence the username iEscapedVim.</li>
-</ul>
+<div style="display: grid; grid-row: 1; grid-row-gap: 0px; margin-left: 20px">
+     <p>🌍  I'm based in Pakistan.</p>
+     <p>🖥️  See <a href="http://iescapedvim.com">MyPortfolio</a>.</p>
+     <p>✉️  You can contact me at my <a href="mailto:info@iescapedvim.com">Business Mail</a>.</p>
+     <p>🧠  I'm learning PHP, Proficient in HTML5, CSS3, Bootstrap, JavaScript, TailwindCSS, and CMS platforms.</p>
+     <p>🤝  I'm open to collaborating on front-end projects, crafting visually stunning, responsive, and user-friendly websites are my thing.</p>
+     <p>⚡  I managed to escaped vim hence the username iEscapedVim.</p>
+</div>
 
 ## 💼 Languages and Tools:
 
