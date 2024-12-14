@@ -45,7 +45,7 @@ Outside of work, I enjoy cooking/exploring new recipes, some photography, watchi
         <img alt="Wix" width="35px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg"  />
         <img alt="Amazon Web Services" width="35px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg"  />
         <img alt="Docker" width="35px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"  />
-        <img alt="Linux" width="35px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"  />
+        <img alt="Linux" width="35px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg"  />
 </div>
 
 <br/>
