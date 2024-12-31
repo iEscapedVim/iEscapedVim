@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
 <code>Web Developer</code>
-<h1>Assalamu-Alaikum (Hi) 👋 There, It's a me Yasir aka iEscapedVim</h1>
+<h1>Assalamu-Alaikum (Hi) 👋 There, It's a me Mario.. I mean Yasir aka iEscapedVim</h1>
 I'm a seasoned web developer and technical project lead with over 8 years of experience in crafting visually compelling, responsive, and functionally robust websites. 
 <br /><br />
 Outside of work, I enjoy cooking/exploring new recipes, some photography, watching anime/discovering new series, and spending time with my feline friends. 😺
